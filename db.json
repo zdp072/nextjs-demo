@@ -1,0 +1,121 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "product 1",
+            "price": 100,
+            "description": "description 1"
+        },
+        {
+            "id": 2,
+            "title": "product 2",
+            "price": 200,
+            "description": "description 2"
+        },
+        {
+            "id": 3,
+            "title": "product 3",
+            "price": 300,
+            "description": "description 3"
+        },
+        {
+            "id": 4,
+            "title": "product 4",
+            "price": 444,
+            "description": "description 4"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "title": "news 1",
+            "category": "sports",
+            "description": "description 1"
+        },
+        {
+            "id": 2,
+            "title": "news 2",
+            "category": "job",
+            "description": "description 2"
+        },
+        {
+            "id": 3,
+            "title": "news 3",
+            "category": "sports",
+            "description": "description 3"
+        },
+        {
+            "id": 4,
+            "title": "news 4",
+            "category": "sports",
+            "description": "description 4"
+        }
+    ],
+    "dashboard": {
+        "posts": 5,
+        "likes": 100,
+        "followers": 300,
+        "following": 50
+    },
+    "events":[{
+        "id":1,
+        "tiele":"event 1",
+        "description":"desc 1",
+        "category":"sports",
+        "date":"august 5"
+    },{
+        "id":2,
+        "tiele":"event 2",
+        "description":"desc 2",
+        "category":"sports",
+        "date":"august 5"
+    },{
+        "id":3,
+        "tiele":"event 3",
+        "description":"desc 3",
+        "category":"sports",
+        "date":"august 5"
+    },{
+        "id":4,
+        "tiele":"event 4",
+        "description":"desc 4",
+        "category":"sports",
+        "date":"august 5"
+    },{
+        "id":5,
+        "tiele":"event 5",
+        "description":"desc 5",
+        "category":"tech",
+        "date":"august 5"
+    },{
+        "id":6,
+        "tiele":"event 6",
+        "description":"desc 6",
+        "category":"tech",
+        "date":"august 5"
+    },{
+        "id":7,
+        "tiele":"event 7",
+        "description":"desc 7",
+        "category":"tech",
+        "date":"august 5"
+    },{
+        "id":8,
+        "tiele":"event 8",
+        "description":"desc 8",
+        "category":"tech",
+        "date":"august 5"
+    },{
+        "id":9,
+        "tiele":"event 9",
+        "description":"desc 9",
+        "category":"tech",
+        "date":"august 5"
+    },{
+        "id":10,
+        "tiele":"event 10",
+        "description":"desc 10",
+        "category":"tech",
+        "date":"august 5"
+    }]
+}
